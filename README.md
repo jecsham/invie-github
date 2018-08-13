@@ -1,3 +1,4 @@
-# invie-github
-Proyecto para una clase de platzi
-cambio
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
